@@ -4,7 +4,7 @@
   <img src="https://demolab.com." alt="Terminal Typing Effect" />
 </p>
 
-### 🛠️ Environment Configuration
+### 💻 System Configurations
 
 ```json
 vyanku07@github:~# cat skills.json
