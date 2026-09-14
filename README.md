@@ -4,6 +4,8 @@
   <img src="https://demolab.com." alt="Terminal Typing Effect" />
 </p>
 
+### 🛠️ Environment Configuration
+
 ```json
 vyanku07@github:~# cat skills.json
 {
@@ -12,4 +14,6 @@ vyanku07@github:~# cat skills.json
   "tools": ["Git", "Docker", "Linux Terminal"]
 }
 ```
+
+
 
